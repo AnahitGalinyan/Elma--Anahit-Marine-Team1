@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 line 15
 line 27
+=======
+line 13
+line 24
+>>>>>>> local-branch
 line 3
 line 4
