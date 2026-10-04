@@ -1,4 +1,2 @@
-line 13
-line 24
 line 3
 line 4
